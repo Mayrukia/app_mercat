@@ -16,5 +16,7 @@ Things you may want to cover:
 
 * Database creation Postgres sql
 
-* Para acceder al CRUD de book /books para acceder al CRUD de Usuarios /Users
+* Para acceder al CRUD de book /books 
+
+* Para acceder al CRUD de Usuarios /Users
 
