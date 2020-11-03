@@ -5,20 +5,16 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 
+
+  ruby '2.7.2' 
+ 'rails', '~> 5.1.0'
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation Postgres sql
 
-* Database initialization
+* Para acceder al CRUD de book /books para acceder al CRUD de Usuarios /Users
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
